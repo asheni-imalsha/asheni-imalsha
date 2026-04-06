@@ -5,20 +5,22 @@
 </div>
 
 
-🌸 Passionate Data Science Student | Web & Mobile Developer | Tech Enthusiast  
+🌸 Passionate Software Engineering Student | Web & Mobile Developer | Tech Enthusiast  
 
 ---
 
 ## 🚀 About Me  
-- 🎓 Data Science Undergraduate at Sri Lanka Institute of Information technology
+- 🎓 Software Engineering Undergraduate at Sri Lanka Institute of Information technology
 - 🌱 Currently learning **Spring Boot, React, and Android**  
 - 💡 Interested in full-stack development  
 - 🎨 Love designing and exploring creative ideas.
-- 📊 Enthusiastic about data science and discovering innovative solutions.
+- 📊 Enthusiastic about developing and discovering innovative solutions.
 ---
 ## 📂 Projects  
 - HopeFlow - A life-saving blood donation website.
+- CeylonBrew - Tea plantation and management system.
 - Flower shop mobile application.
+- Uplift - Health and well-being mobile application.
 - More projects coming soon!
 
 ---
