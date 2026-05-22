@@ -1,43 +1,136 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=600&lines=Hey+there!+I'm+Asheni+Imalsha+👋;Software+Engineering+Undergraduate+at+SLIIT+🎓;Always+Coding+%26+Learning+🚀)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=750&lines=Hey+there!+I'm+Asheni+Imalsha+👋;Software+Engineering+Undergraduate+at+SLIIT+🎓;Full-Stack+Developer+%7C+Mobile+App+Developer+🚀;Always+Coding+%26+Learning+💻)](https://git.io/typing-svg)
 
 </div>
 
-
-🌸 Passionate Software Engineering Student | Web & Mobile Developer | Tech Enthusiast  
-
----
-
-## 🚀 About Me  
-- 🎓 Software Engineering Undergraduate at Sri Lanka Institute of Information technology
-- 🌱 Currently learning **Spring Boot, React, and Android**  
-- 💡 Interested in full-stack development  
-- 🎨 Love designing and exploring creative ideas.
-- 📊 Enthusiastic about developing and discovering innovative solutions.
----
-## 📂 Projects  
-- HopeFlow - A life-saving blood donation website.
-- CeylonBrew - Tea plantation and management system.
-- Flower shop mobile application.
-- Uplift - Health and well-being mobile application.
-- More projects coming soon!
+🌸 Passionate Software Engineering Student | Full-Stack Developer | Mobile App Developer | Tech Enthusiast  
 
 ---
 
-## 🛠️ Skills  
-- **Languages:** Java | JavaScript | TypeScript | Python | PHP  
-- **Frameworks:** Spring Boot | React.js | Next.js | Node.js | Express  
-- **Databases:** MySQL | MongoDB  
-- **Other Tools:** Git | GitHub | Figma | Android Studio  
+## 🚀 About Me
+- 🎓 Software Engineering Undergraduate at Sri Lanka Institute of Information Technology
+- 🌱 Currently learning **Spring Boot, React, Next.js, Android Development, and Microservices**
+- 💡 Interested in **Full-Stack Development, Mobile Applications, Cloud Technologies, and Scalable Systems**
+- 🎨 Love designing and exploring creative ideas
+- 📊 Enthusiastic about developing innovative and impactful solutions
+- 🚀 Always coding, learning, and improving my skills
 
 ---
 
-## 📊 GitHub Stats  
-![Asheni's GitHub stats](https://github-readme-stats.vercel.app/api?username=asheni-imalsha&show_icons=true&theme=radical)  
+## 🛠️ Skills
+
+### 💻 Programming & Query Languages
+`Python` `R` `Java` `JavaScript` `TypeScript` `PHP` `SQL` `Kotlin` `C` `C++`
+
+### 🌐 Web & Full-Stack Development
+`MERN Stack` `MongoDB` `Express.js` `React.js` `Node.js` `Next.js` `Spring Boot` `REST APIs` `Microservices Architecture`
+
+### 📱 Mobile Application Development
+`Android Development` `Kotlin` `XML` `API Integration`
+
+### 🎨 Frontend Development
+`React.js` `Next.js` `HTML` `CSS` `Tailwind CSS` `Responsive UI/UX Design`
+
+### ⚙️ Backend Development
+`Node.js` `Express.js` `Spring Boot` `PHP` `Java Servlets` `JSP`
+
+### 🗄️ Databases
+`MySQL` `MongoDB` `Oracle`
+
+### ☁️ DevOps & Cloud
+`Docker` `Kubernetes` `Containerization` `Basic CI/CD Concepts` `Kafka`
+
+### 🧰 Tools & Platforms
+`Git` `GitHub` `VS Code` `Postman` `Playwright` `Figma` `Android Studio`
+
+### 📚 Concepts
+`OOP` `MVC Architecture` `REST APIs` `Cloud Computing` `Data Warehousing` `ETL Process` `Business Intelligence`
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/asheni-imalsha)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](asheniimalsha0@gmail.com)  
+# 📂 Projects
+
+## 🌸 Blüm – Flower Shop Mobile Application | Kotlin, XML
+- Developed a mobile application for a flower shop enabling users to browse products, place orders, and manage purchases seamlessly.
+- Designed intuitive user interfaces using XML and implemented core functionalities in Kotlin, including order management and user authentication.
+
+---
+
+## 💪 Uplift – Health and Well-being Mobile Application | Kotlin, XML
+- Developed a mobile application focused on promoting health and well-being through features such as activity tracking, reminders, and personalized insights.
+- Designed user-friendly interfaces using XML and implemented core functionalities in Kotlin, including user data management and interactive features.
+
+---
+
+## 🏥 Medicare – Healthcare Management System | MERN Stack
+- Developed a comprehensive full-stack healthcare management system supporting appointment booking, patient management, pharmacy orders, diagnostic tests, and role-based administration.
+- Built a RESTful API using Node.js and Express, and a responsive frontend using React (Vite), ensuring efficient data handling and seamless user experience.
+
+---
+
+## 🩺 Telemedicine Platform – Healthcare Microservices Platform | MERN Stack, Kafka, Docker, Kubernetes
+- Developed a production-ready telemedicine platform using microservices architecture, enabling scalable healthcare management and real-time communication.
+- Containerized services using Docker and orchestrated deployments with Kubernetes, integrating API Gateway, MongoDB, and Kafka for scalable and reliable system operations.
+
+---
+
+## 🍃 CeylonBrew – Tea Plantation Management System | Next.js, Spring Boot, MySQL
+- Developed an enterprise-level full-stack application to automate tea plantation workflows and operations with strong security validation.
+- Implemented role-based access for farmers, suppliers, factory staff, plantation managers, and delivery teams, along with graphical data visualization.
+
+---
+
+## 🩸 HopeFlow – Blood Donation Management System | PHP, MySQL, AJAX
+- Developed a web-based blood donation management system using HTML, CSS, JavaScript, PHP, MySQL, jQuery, and AJAX.
+- Optimized data handling with AJAX for real-time updates and improved MySQL query performance.
+
+---
+
+## 🚗 FlexRide – Vehicle Renting System | Java Servlets, JSP, JDBC
+- Developed a Java-based web application for vehicle renting using Servlets, JSP, and JDBC following the MVC architecture.
+- Implemented complete CRUD functionality for managing vehicles, bookings, and users, ensuring efficient data handling and structured application flow.
+
+---
+
+## 👗 Beauty Queen Fashion – Digital Printing Website | TypeScript, JavaScript, CSS
+- Developed a client-based web application for a digital printing and fashion business using TypeScript, JavaScript, and CSS with a responsive modern UI.
+- Implemented product and service showcase pages, customer inquiry functionality, and user-friendly navigation to improve customer engagement and accessibility.
+
+---
+
+## 📊 GitHub Stats
+
+![Asheni's GitHub stats](https://github-readme-stats.vercel.app/api?username=asheni-imalsha&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asheni-imalsha&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=asheni-imalsha&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asheni-imalsha)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asheni-imalsha)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asheniimalsha0@gmail.com)
+
+---
+
+## ✨ Quote
+
+> *"Code. Learn. Build. Repeat."*
+
+---
+
+<div align="center">
+
+✨ Thanks for visiting my profile! ✨
+
+</div>
