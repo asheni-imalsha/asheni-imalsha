@@ -98,13 +98,15 @@
 - Implemented product and service showcase pages, customer inquiry functionality, and user-friendly navigation to improve customer engagement and accessibility.
 
 ---
-
 ## 📊 GitHub Stats
 
-![Asheni's GitHub stats](https://github-readme-stats.vercel.app/api?username=asheni-imalsha&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asheni-imalsha&layout=compact&theme=radical)
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Asheni-Imalsha&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Asheni-Imalsha&layout=compact&theme=radical&hide_border=true" />
+
+</div>
 ---
 
 ## 🏆 GitHub Trophies
