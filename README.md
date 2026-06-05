@@ -98,6 +98,18 @@
 - Implemented product and service showcase pages, customer inquiry functionality, and user-friendly navigation to improve customer engagement and accessibility.
 
 ---
+
+## ☕ CafeLounge – Workspace Management and Café Ordering System | PHP, MySQL, Tailwind CSS, JavaScript
+- Developed a web-based workspace management and café ordering system using PHP, MySQL, Tailwind CSS, and JavaScript with secure user registration and authentication features.
+- Implemented desk and meeting room booking management (create, edit, delete), active booking visibility, digital café menu browsing, and shopping cart functionality for ordering coffee and snacks.
+
+---
+
+## 💼 Personal Portfolio Website | TypeScript, JavaScript, Tailwind CSS, CSS
+- Developed and deployed a responsive personal portfolio website using TypeScript, JavaScript, Tailwind CSS, and CSS to showcase projects, technical skills, education, and professional achievements.
+- Implemented modern UI/UX design principles, interactive navigation, project highlights, and mobile-friendly layouts to enhance user engagement and accessibility.
+
+---
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -122,6 +134,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asheni-imalsha)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asheniimalsha0@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://asheni-portfolio.asheniimalsha0.workers.dev/)
 
 ---
 
